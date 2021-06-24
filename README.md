@@ -1,2 +1,1 @@
-# BeatBox-with-oop
- Create a BeatBox using OOP
+# pwj-module-7-oop

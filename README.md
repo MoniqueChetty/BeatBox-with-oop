@@ -53,4 +53,4 @@ git clone https://github.com/MoniqueChetty/BeatBox-with-oop.git
 - 🦁 [Website](https://monique-chetty-resume.vercel.app/)
 
 
-<p align="center">Made with <repo-lang> & ❤️ in South Africa</p>
+<p align="center">Made with <repo-lang> ❤️ in South Africa</p>
